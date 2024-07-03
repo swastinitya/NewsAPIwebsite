@@ -1,1 +1,1 @@
-# NewsAPIwebsitr
+# NewsAPIwebsite
